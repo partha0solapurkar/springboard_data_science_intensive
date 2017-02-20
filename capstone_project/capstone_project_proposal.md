@@ -3,7 +3,7 @@
 ### Introduction 
 Not all of the users who create an account on a website make a purchase. I plan to analyze user activity data in order to help develop strategies to improve the conversion rate of new users by working with the marketing team. 
 
-### The Dataset 
+### Dataset 
 
 The dataset is the Airbnb new user bookings dataset available from https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data. Roughly 60 percent of the users do not make a booking. The goal is to develop strategies to lower this number. 
 
