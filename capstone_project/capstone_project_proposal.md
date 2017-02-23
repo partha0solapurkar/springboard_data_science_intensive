@@ -17,7 +17,7 @@ I plan to develop a model that predicts the users who are very likely to make a 
 
 ### Other analysis 
 
-I plan to analyze the dataset and glean actinable insights such as seasonal patters in user bookings. For example, if people are likely to make a booking in the summertime anyway, there is no need of offering promotions in the summer. On the other hand, if people are less likely to make a booking in the wintertime, it would be a good idea offer special promotions in the winter.
+I plan to analyze the dataset and glean actinable insights based on observations such as seasonal patters in user bookings. For example, if people are likely to make a booking in the summertime anyway, there is no need of offering promotions in the summer. On the other hand, if people are less likely to make a booking in the wintertime, it would be a good idea offer special promotions in the winter.
 
 ### Deliverables 
 The deliverables will be a technical notebook with code, a report, a slide deck and the two models mentioned above. 
