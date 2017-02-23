@@ -2,9 +2,11 @@
 
 I explore Airbnb user data to glean insights and to create two models:
 
-- model_hesitant_users.ipynb contains a model that identifies users who are NOT likely to make a booking, with high recall. These users may be targeted with special promotions in order to increase the conversion rate. 
+- exploratory_data_analysis.ipynb contains the initial cleaning and exploration of the data. 
 
 - model_eager_users.ipynb contains a model that identifies users who are likely to make a booking, with high precision. These users are likely to make a booking anyway, so no special promotions necessary for these users. 
+
+- model_hesitant_users.ipynb contains a model that identifies users who are NOT likely to make a booking, with high recall. These users may be targeted with special promotions in order to increase the conversion rate. 
 
 The dataset it too large and is not included in this repository. It may be downloaded from here: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data 
 
