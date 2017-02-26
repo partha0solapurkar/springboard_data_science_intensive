@@ -28,4 +28,7 @@ People really like traveling when it's warm at their destination. This suggests 
 ### The `sessions` table
 The `sessions` table contains information about user activity. Information such as clicks and views and time associated with each action may be seen here. A lot of these values are missing. It would be a good idea to record the user activity with more details.
 
-Users spend up to 20 days on the website after creating an account, but the number of days spent starts to fall off very fast after the first day. The conversion rate for the users who spend at least five days is significantly higher than the number of users who spend less than five days. It is possible that some users simply forget about the service. It would be a good idea to email the users twice or thrice in the first week after they create an account. 
+Users spend up to 20 days on the website after creating an account, but the number of days spent starts to fall off very fast after the first day. The conversion rate for the users who spend at least five days is significantly higher than the number of users who spend less than five days. It is possible that some users simply forget about the service. It would be a good idea to email the users twice or thrice in the first week after they create an account.
+
+### Conclusion
+Based on the initial exploration, I decided to focus on delivering a data product aimed at trying to improve the conversion rate.
