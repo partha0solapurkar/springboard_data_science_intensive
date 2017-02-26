@@ -8,6 +8,8 @@ I explore Airbnb user data to glean insights and to create two models:
 
 - model_hesitant_users.ipynb contains a model that identifies users who are NOT likely to make a booking, with high recall. These users may be targeted with special promotions in order to increase the conversion rate. 
 
+- slides.pdf are the non-technical slides aimed at the general audience. 
+
 (The two models are essentially the same, but are separated for the purpose of clearly communicating thresholding, precision and recall.)
 
 The dataset is too large and is not included in this repository. It may be downloaded from here: https://www.kaggle.com/c/airbnb-recruiting-new-user-bookings/data 
