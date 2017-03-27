@@ -1,6 +1,6 @@
-# Springboard's Data Science Intensive Workshop Projects
+# Springboard's Data Science Intensive Workshop
 
-This repository contains all of my Springboard Data Science Intensive Workshop projects. 
+This repository contains all of my projects from Springboard's Data Science Intensive Workshop. 
 
 - The capstone_project directory contains the main projects, based on Airbnb's new users activity data. 
 
